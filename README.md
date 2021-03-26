@@ -68,3 +68,9 @@ faster = AudioSegment.speedup(normal, playback_speed = 4)
 silence_1s = AudioSegment.silent()
 silence_10s = AudioSegment.silent(duration = 10000)
 ```
+
+## la vraie doc
+- https://github.com/jiaaro/pydub/blob/master/API.markdown
+
+## un peu de code de pydub
+- https://github.com/jiaaro/pydub/blob/master/pydub/audio_segment.py
