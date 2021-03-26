@@ -11,7 +11,7 @@ from pydub import AudioSegment
 - http://ressources.magicmakers.fr/ressources-python-bases-pydub/
 - http://ressources.magicmakers.fr/ressources-python-les-bases-de-python-tableau/
 
-## Doc de AudioSegment
+## Doc des fonctions de pydub
 
 **apply_gain**(volume): applique un gain de "volume" (un nombre décimal) et renvoie la piste modifiée
 ```
