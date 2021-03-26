@@ -13,7 +13,7 @@ from pydub import AudioSegment
 
 ## Doc de AudioSegment
 
-mon_son.**apply_gain**(volume): applique un gain de "volume" (un nombre décimal) à mon_son et renvoie la piste modifiée
+**apply_gain**(volume): applique un gain de "volume" (un nombre décimal) et renvoie la piste modifiée
 ```
 song = AudioSegment.from_file("my_song.mp3", format = "mp3")
 forte = song.apply_gain(10) #attention aux oreilles!
@@ -26,13 +26,13 @@ song = AudioSegment.from_file("my_song.mp3", format = "mp3")
 song.export("my_custom_song.mp3", format = "mp3")
 ```
 
-mon_son.**fade_in**(duration): fait un fade in sur duration ms en début de piste et la renvoie modifée
+**fade_in**(duration): fait un fade in sur duration ms en début de piste et la renvoie modifée
 ```
 musique = AudioSegment.from_file("musique.mp3", format="mp3")
 fade_in = musique.fade_in(10000)
 ```
 
-mon_son.**fade_out**(duration): fait un fade out sur duration ms en fin de piste et la renvoie modifée
+**fade_out**(duration): fait un fade out sur duration ms en fin de piste et la renvoie modifée
 ```
 musique = AudioSegment.from_file("musique.mp3", format="mp3")
 fade_out = musique.fade_out(10000)
@@ -43,7 +43,7 @@ fade_out = musique.fade_out(10000)
 song = AudioSegment.from_file("my_song.mp3", format = "mp3")
 ```
 
-mon_son.**overlay**(autre_son): superpose la piste autre_son au dessus de mon_son et la stocke dans une nouvelle variable
+**overlay**(autre_son): superpose la piste autre_son au dessus de la piste et la stocke dans une nouvelle variable
 ```
 piste_1 = AudioSegment.from_file("song1.mp3", format = "mp3")
 piste_2 = AudioSegment.from_file("sound2.mp3", format = "mp3")
