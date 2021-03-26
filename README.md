@@ -9,7 +9,7 @@ from pydub import AudioSegment
 
 ## Ressources
 - http://ressources.magicmakers.fr/ressources-python-bases-pydub/
-- http://ressources.magicmakers.fr/ressources-python-bases-pydub/
+- http://ressources.magicmakers.fr/ressources-python-les-bases-de-python-tableau/
 
 ## Doc de AudioSegment
 
