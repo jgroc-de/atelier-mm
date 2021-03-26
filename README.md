@@ -13,7 +13,7 @@ from pydub import AudioSegment
 
 ## Doc de AudioSegment
 
-mon_son.apply_gain(volume): applique un gain de "volume" (un nombre décimal) à mon_son et renvoie la piste modifiée
+mon_son.**apply_gain**(volume): applique un gain de "volume" (un nombre décimal) à mon_son et renvoie la piste modifiée
 ```
 song = AudioSegment.from_file("my_song.mp3", format = "mp3")
 forte = song.apply_gain(10) #attention aux oreilles!
