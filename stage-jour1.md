@@ -19,16 +19,16 @@
 ```
 ### Éléments de base
 
-- <body></body>
-- titre (Headline): <h1>un titre</h1>. (par ordre d'importance, de 1 (titre principale) à 8 (sous sous sous … titre)
-- paragraphe: <p>mon texte ici</p>
-- saut de ligne: <br/> (balise auto-fermante)
-- ligne séparatrice: <hr/>
+- ```<body></body>```
+- titre (Headline): ```<h1>un titre</h1>```. (par ordre d'importance, de 1 (titre principale) à 8 (sous sous sous … titre)
+- paragraphe: ```<p>mon texte ici</p>```
+- saut de ligne: ```<br/>``` (balise auto-fermante)
+- ligne séparatrice: ```<hr/>```
 
 ### Éléments avec attributs
 
-- lien: <a href="https://exmple.com">un lien</a>
-- image <img src="https://exemple.com/img.png" alt="une image factice" width=50px height=100px/>
+- lien: ```<a href="https://exmple.com">un lien</a>```
+- image ```<img src="https://exemple.com/img.png" alt="une image factice" width=50px height=100px/>```
 
 ## CSS
 
