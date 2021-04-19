@@ -20,7 +20,7 @@
 ### Éléments de base
 
 - ```<body></body>```
-- titre (Headline): ```<h1>un titre</h1>```. (par ordre d'importance, de 1 (titre principale) à 8 (sous sous sous … titre)
+- titre (Headline): ```<h1>un titre</h1>```. (par ordre d'importance, de 1 (titre principale) à 6 (sous sous sous … titre)
 - paragraphe: ```<p>mon texte ici</p>```
 - saut de ligne: ```<br/>``` (balise auto-fermante)
 - ligne séparatrice: ```<hr/>```
@@ -33,15 +33,31 @@
 ## CSS
 
  - background-color: pink;
- - color: black;
+ - color: #ff0000;
+ - font-size: 89px;
  - margin: 24px 48px;
  - padding: 24px 48px;
+ - font-weight: bold;
 
 ## Tutos
 
 - https://www.w3schools.com
 
-## Exos 1
+
+## Mon premier site:
+
+faire un site de présentation d'une de mes passions (ca peut etre un sport, un jeu, un livre, un film ou une série… ce que l'on veut).
+Il doit y avoir:
+- un titre h1 en haut et des titres h2 (voir plus) pour les paragraphes
+- des images (au moins une par paragraphe) dont une qui est un lien vers un autre site
+- du texte pour présenter le sujet
+- des liens vers d'autres site (ou vers une autre de mes pages)
+- un paragraphe "à propos de l'auteur" donnant quelques informations à mon propos
+- une ligne de séparation à la fin avec mon nom
+
+## exemple: https://faithful-tinted-book.glitch.me
+
+## Autre exo
 
 Réalisez une page web qui contient les éléments suivants :
 - Un fond d’écran rose (“Pink ? what’s wrong with pink ?”). Attention c’est pas unecouleur au hasard.
