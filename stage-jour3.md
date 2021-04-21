@@ -1,20 +1,5 @@
-# Support stage web
+# Stage Web - jour 3
 
-## Charte
-
-- http://ressources.magicmakers.fr/wp-content/uploads/2019/07/charte.png
-
-## fonts
-
-- https://fonts.google.com/
-
-## lorem Ipsum
-
-- https://fr.lipsum.com/
-
-## colors
-
-- https://www.w3schools.com/colors/colors_schemes.asp
 
 ## Défis/culture
 
@@ -73,22 +58,6 @@ Lampe torche
 ■Raquettes (neige)
 ■Logiciel médical de simulation Zombie pour sauver le monde
 ■boite noire de l'avion
-
-## Tutos
-
-- https://www.w3schools.com
-
-## Exos 1
-
-Réalisez une page web qui contient les éléments suivants :
-- Un fond d’écran rose (“Pink ? what’s wrong with pink ?”). Attention c’est pas unecouleur au hasard.
-- Un titre de l’onglet de navigation : “B.A.BA”
-- Un titre -donc plus gros- en blanc centré qui contient au moins un accent
-- Deux images côte à côte représentant des boutiques en ligne
-- Sous chaque image, un lien vers le site web correspondant
-- En dessous, une ligne horizontale qui sépare la page (quelle que soit la taille de lafenêtre)
-- Enfin, sous cette ligne, aligné sur le coté droit de la page, en italique et avec unepolice de caractères monospace, le sigle copyright, votre login, et l’année en cours
-(“©ol 2014”)
 
 ## Themes
 
