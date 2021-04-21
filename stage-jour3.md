@@ -3,6 +3,7 @@
 
 ## Défis/culture
 
+- https://quizizz.com/join?gc=21784946
 - https://ctf.jrmegroc.repl.co/
 - https://www.leparisien.fr/societe/sante/comment-la-nouvelle-zelande-veut-devenir-le-premier-pays-au-monde-sans-tabac-21-04-2021-SZNGYLLRC5HKVKEWG3XVLINLZQ.php
 - https://brawlstars.triche-astuce.fr/
