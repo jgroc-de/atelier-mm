@@ -4,7 +4,7 @@
 ## Défis/culture
 
 - https://ctf.jrmegroc.repl.co/
-- https://www.leparisien.fr/culture-loisirs/tv/nagui-j-arrete-tout-le-monde-veut-prendre-sa-place-14-04-2021-8431138.php
+- https://www.leparisien.fr/societe/sante/comment-la-nouvelle-zelande-veut-devenir-le-premier-pays-au-monde-sans-tabac-21-04-2021-SZNGYLLRC5HKVKEWG3XVLINLZQ.php
 - https://brawlstars.triche-astuce.fr/
 
 ## flexbox
