@@ -11,9 +11,10 @@
 
 - https://drive.google.com/file/d/12YTrU5jbjfpyKiR7BRBmyqItOAIDk8GI/view?usp=sharing
 
-### Lorem ipsum
+### Lorem ipsum generator
 
-- Lorem Elsass ipsum libero, dignissim merci vielmols elit geht's rossbolla adipiscing sed sit Oberschaeffolsheim hop vielmols, suspendisse kartoffelsalad nüdle Chulia Roberstau Gal. chambon kuglopf Huguette bissame salu Gal ! morbi barapli Spätzle Morbi Carola in, DNA, Heineken Pfourtz ! vulputate Oberschaeffolsheim commodo Salut bisamme consectetur geïz ch'ai blottkopf, nullam hopla ornare
+- https://loremipsum.io/generator/
+- (version alsacien) https://www.alsacreations.com/page/schnapsum
 
 ### police
 
