@@ -24,13 +24,13 @@
 
 - fond: #E8EDF2;
 - police: #161E27;
-- max-width: au choix
+- max-width: 800px;
 - margin: auto;
 
 ### titres
 
 #### couleurs
-#506C8B;
+- #506C8B;
 
 #### taille de police
 
@@ -42,16 +42,17 @@
 #### couleurs
 
 - normal: #161E27;
-- au survol (:hover): #506C8B;
-- couleurs de fond: #879FBA;
+- fond au survol (:hover): #506C8B;
+- couleurs de fond normal: #879FBA; (sur tout le bloc)
 
 ### à propos
 
 - couleur de fond: #161E27;
+- couleur de police: #879FBA;
 
 ### paragraphe
 
--padding: 24px;
+- padding: 24px;
 
 ### img
 
