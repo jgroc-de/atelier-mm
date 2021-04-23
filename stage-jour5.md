@@ -11,6 +11,13 @@
 ## wireframe ex
 
 - https://drive.google.com/file/d/1yClaNYhR52GgfkiA-R8xPQZxYiGIG0RP/view?usp=sharing
+- https://wireframe.cc/nKq75t
+- https://wireframe.cc/xEUx9k
+
+## exemples de themes
+
+- https://www.w3schools.com/w3css/w3css_templates.asp
+- https://fr.wordpress.org/themes/
 
 ## Lorem ipsum Generator
 
@@ -22,9 +29,7 @@
 
 ## Couleurs
 
+- https://color.adobe.com/fr/create/color-wheel
 - https://www.w3schools.com/colors/colors_schemes.asp
 
-## Themes ex
 
-- https://www.w3schools.com/w3css/w3css_templates.asp
-- https://fr.wordpress.org/themes/
