@@ -1,5 +1,9 @@
 # Stage Web - jour 3
 
+## TO DO
+
+journée à refaire coté flexbox. Oublier le jeu, faire plutot défi de placement?
+montrer comment placer différent wireframe type (side bar, barre du haut, bloc image/texte/titre)
 
 ## Défis/culture
 
