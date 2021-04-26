@@ -1,4 +1,4 @@
-# Support stage web
+# Stage Web - Jour 1
 
 ## Charte
 
