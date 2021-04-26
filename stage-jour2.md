@@ -1,4 +1,4 @@
-# Stage Web Jour 2
+# Stage Web - Jour 2
 
 ## Documentation HTML et CSS
 
